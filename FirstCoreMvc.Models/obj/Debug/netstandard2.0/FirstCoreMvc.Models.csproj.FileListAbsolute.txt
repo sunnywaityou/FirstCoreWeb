@@ -1,0 +1,9 @@
+E:\2018大四上\专业\.net core\FirstCoreWeb\FirstCoreMvc.Models\bin\Debug\netstandard2.0\FirstCoreMvc.Models.deps.json
+E:\2018大四上\专业\.net core\FirstCoreWeb\FirstCoreMvc.Models\bin\Debug\netstandard2.0\FirstCoreMvc.Models.dll
+E:\2018大四上\专业\.net core\FirstCoreWeb\FirstCoreMvc.Models\bin\Debug\netstandard2.0\FirstCoreMvc.Models.pdb
+E:\2018大四上\专业\.net core\FirstCoreWeb\FirstCoreMvc.Models\obj\Debug\netstandard2.0\FirstCoreMvc.Models.csprojAssemblyReference.cache
+E:\2018大四上\专业\.net core\FirstCoreWeb\FirstCoreMvc.Models\obj\Debug\netstandard2.0\FirstCoreMvc.Models.csproj.CoreCompileInputs.cache
+E:\2018大四上\专业\.net core\FirstCoreWeb\FirstCoreMvc.Models\obj\Debug\netstandard2.0\FirstCoreMvc.Models.AssemblyInfoInputs.cache
+E:\2018大四上\专业\.net core\FirstCoreWeb\FirstCoreMvc.Models\obj\Debug\netstandard2.0\FirstCoreMvc.Models.AssemblyInfo.cs
+E:\2018大四上\专业\.net core\FirstCoreWeb\FirstCoreMvc.Models\obj\Debug\netstandard2.0\FirstCoreMvc.Models.dll
+E:\2018大四上\专业\.net core\FirstCoreWeb\FirstCoreMvc.Models\obj\Debug\netstandard2.0\FirstCoreMvc.Models.pdb

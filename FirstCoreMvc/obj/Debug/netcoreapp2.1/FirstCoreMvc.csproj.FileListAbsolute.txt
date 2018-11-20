@@ -30,3 +30,12 @@ E:\2018大四上\专业\.net core\FirstCoreWeb\FirstCoreMvc\obj\Debug\netcoreapp
 E:\2018大四上\专业\.net core\FirstCoreWeb\FirstCoreMvc\obj\Debug\netcoreapp2.1\FirstCoreMvc.dll
 E:\2018大四上\专业\.net core\FirstCoreWeb\FirstCoreMvc\obj\Debug\netcoreapp2.1\FirstCoreMvc.pdb
 E:\2018大四上\专业\.net core\FirstCoreWeb\FirstCoreMvc\obj\Debug\netcoreapp2.1\FirstCoreMvc.csproj.CopyComplete
+E:\2018大四上\专业\.net core\FirstCoreWeb\FirstCoreMvc\bin\Debug\netcoreapp2.1\FirstCoreMvc.Common.dll
+E:\2018大四上\专业\.net core\FirstCoreWeb\FirstCoreMvc\bin\Debug\netcoreapp2.1\FirstCoreMvc.Common.pdb
+E:\2018大四上\专业\.net core\FirstCoreWeb\FirstCoreMvc\bin\Debug\netcoreapp2.1\FirstCoreMvc.BLL.dll
+E:\2018大四上\专业\.net core\FirstCoreWeb\FirstCoreMvc\bin\Debug\netcoreapp2.1\FirstCoreMvc.BLL.pdb
+E:\2018大四上\专业\.net core\FirstCoreWeb\FirstCoreMvc\bin\Debug\netcoreapp2.1\FirstCoreMvc.DAL.dll
+E:\2018大四上\专业\.net core\FirstCoreWeb\FirstCoreMvc\bin\Debug\netcoreapp2.1\FirstCoreMvc.Models.dll
+E:\2018大四上\专业\.net core\FirstCoreWeb\FirstCoreMvc\bin\Debug\netcoreapp2.1\FirstCoreMvc.Models.pdb
+E:\2018大四上\专业\.net core\FirstCoreWeb\FirstCoreMvc\bin\Debug\netcoreapp2.1\FirstCoreMvc.DAL.pdb
+E:\2018大四上\专业\.net core\FirstCoreWeb\FirstCoreMvc\obj\Debug\netcoreapp2.1\Razor\Views\HelloWorld\Index.g.cshtml.cs

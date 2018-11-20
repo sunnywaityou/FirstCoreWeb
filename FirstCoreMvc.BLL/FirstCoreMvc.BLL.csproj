@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>   
+    <ProjectReference Include="..\FirstCoreMvc.Common\FirstCoreMvc.Common.csproj" />
+    <ProjectReference Include="..\FirstCoreMvc.DAL\FirstCoreMvc.DAL.csproj" />
+    <ProjectReference Include="..\FirstCoreMvc.Models\FirstCoreMvc.Models.csproj" />
+  </ItemGroup>
+</Project>

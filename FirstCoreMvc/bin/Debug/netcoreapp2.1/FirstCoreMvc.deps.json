@@ -24,6 +24,9 @@
     ".NETCoreApp,Version=v2.1": {
       "FirstCoreMvc/1.0.0": {
         "dependencies": {
+          "FirstCoreMvc.BLL": "1.0.0",
+          "FirstCoreMvc.Common": "1.0.0",
+          "FirstCoreMvc.Models": "1.0.0",
           "Microsoft.AspNetCore.App": "2.1.1",
           "Microsoft.AspNetCore.Razor.Design": "2.1.2",
           "Microsoft.NETCore.App": "2.1.0"
@@ -205,6 +208,47 @@
       "NETStandard.Library/2.0.3": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "2.1.0"
+        }
+      },
+      "FirstCoreMvc.BLL/1.0.0": {
+        "dependencies": {
+          "FirstCoreMvc.Common": "1.0.0",
+          "FirstCoreMvc.DAL": "1.0.0",
+          "FirstCoreMvc.Models": "1.0.0"
+        },
+        "runtime": {
+          "FirstCoreMvc.BLL.dll": {}
+        },
+        "compile": {
+          "FirstCoreMvc.BLL.dll": {}
+        }
+      },
+      "FirstCoreMvc.Common/1.0.0": {
+        "runtime": {
+          "FirstCoreMvc.Common.dll": {}
+        },
+        "compile": {
+          "FirstCoreMvc.Common.dll": {}
+        }
+      },
+      "FirstCoreMvc.DAL/1.0.0": {
+        "dependencies": {
+          "FirstCoreMvc.Common": "1.0.0",
+          "FirstCoreMvc.Models": "1.0.0"
+        },
+        "runtime": {
+          "FirstCoreMvc.DAL.dll": {}
+        },
+        "compile": {
+          "FirstCoreMvc.DAL.dll": {}
+        }
+      },
+      "FirstCoreMvc.Models/1.0.0": {
+        "runtime": {
+          "FirstCoreMvc.Models.dll": {}
+        },
+        "compile": {
+          "FirstCoreMvc.Models.dll": {}
         }
       },
       "Microsoft.AspNet.WebApi.Client/5.2.6": {
@@ -3210,6 +3254,26 @@
       "sha512": "sha512-st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
       "path": "netstandard.library/2.0.3",
       "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
+    },
+    "FirstCoreMvc.BLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FirstCoreMvc.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FirstCoreMvc.DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FirstCoreMvc.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "Microsoft.AspNet.WebApi.Client/5.2.6": {
       "type": "package",

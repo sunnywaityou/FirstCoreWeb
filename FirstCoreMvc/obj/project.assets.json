@@ -4333,6 +4333,55 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XDocument.dll": {}
         }
+      },
+      "FirstCoreMvc.BLL/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "FirstCoreMvc.Common": "1.0.0",
+          "FirstCoreMvc.DAL": "1.0.0",
+          "FirstCoreMvc.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/FirstCoreMvc.BLL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FirstCoreMvc.BLL.dll": {}
+        }
+      },
+      "FirstCoreMvc.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/FirstCoreMvc.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FirstCoreMvc.Common.dll": {}
+        }
+      },
+      "FirstCoreMvc.DAL/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "FirstCoreMvc.Common": "1.0.0",
+          "FirstCoreMvc.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/FirstCoreMvc.DAL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FirstCoreMvc.DAL.dll": {}
+        }
+      },
+      "FirstCoreMvc.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/FirstCoreMvc.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FirstCoreMvc.Models.dll": {}
+        }
       }
     }
   },
@@ -11784,10 +11833,33 @@
         "system.xml.xpath.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xdocument.nuspec"
       ]
+    },
+    "FirstCoreMvc.BLL/1.0.0": {
+      "type": "project",
+      "path": "../FirstCoreMvc.BLL/FirstCoreMvc.BLL.csproj",
+      "msbuildProject": "../FirstCoreMvc.BLL/FirstCoreMvc.BLL.csproj"
+    },
+    "FirstCoreMvc.Common/1.0.0": {
+      "type": "project",
+      "path": "../FirstCoreMvc.Common/FirstCoreMvc.Common.csproj",
+      "msbuildProject": "../FirstCoreMvc.Common/FirstCoreMvc.Common.csproj"
+    },
+    "FirstCoreMvc.DAL/1.0.0": {
+      "type": "project",
+      "path": "../FirstCoreMvc.DAL/FirstCoreMvc.DAL.csproj",
+      "msbuildProject": "../FirstCoreMvc.DAL/FirstCoreMvc.DAL.csproj"
+    },
+    "FirstCoreMvc.Models/1.0.0": {
+      "type": "project",
+      "path": "../FirstCoreMvc.Models/FirstCoreMvc.Models.csproj",
+      "msbuildProject": "../FirstCoreMvc.Models/FirstCoreMvc.Models.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
+      "FirstCoreMvc.BLL >= 1.0.0",
+      "FirstCoreMvc.Common >= 1.0.0",
+      "FirstCoreMvc.Models >= 1.0.0",
       "Microsoft.AspNetCore.App >= 2.1.1",
       "Microsoft.AspNetCore.Razor.Design >= 2.1.2",
       "Microsoft.NETCore.App >= 2.1.0"
@@ -11820,7 +11892,17 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "E:\\2018大四上\\专业\\.net core\\FirstCoreWeb\\FirstCoreMvc.BLL\\FirstCoreMvc.BLL.csproj": {
+              "projectPath": "E:\\2018大四上\\专业\\.net core\\FirstCoreWeb\\FirstCoreMvc.BLL\\FirstCoreMvc.BLL.csproj"
+            },
+            "E:\\2018大四上\\专业\\.net core\\FirstCoreWeb\\FirstCoreMvc.Common\\FirstCoreMvc.Common.csproj": {
+              "projectPath": "E:\\2018大四上\\专业\\.net core\\FirstCoreWeb\\FirstCoreMvc.Common\\FirstCoreMvc.Common.csproj"
+            },
+            "E:\\2018大四上\\专业\\.net core\\FirstCoreWeb\\FirstCoreMvc.Models\\FirstCoreMvc.Models.csproj": {
+              "projectPath": "E:\\2018大四上\\专业\\.net core\\FirstCoreWeb\\FirstCoreMvc.Models\\FirstCoreMvc.Models.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

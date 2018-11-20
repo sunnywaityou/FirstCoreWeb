@@ -8,5 +8,10 @@
     <PackageReference Include="Microsoft.AspNetCore.App" />
     <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" PrivateAssets="All" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\FirstCoreMvc.Common\FirstCoreMvc.Common.csproj" />
+    <ProjectReference Include="..\FirstCoreMvc.BLL\FirstCoreMvc.BLL.csproj" />
+    <ProjectReference Include="..\FirstCoreMvc.Models\FirstCoreMvc.Models.csproj" />
+  </ItemGroup>
 
 </Project>

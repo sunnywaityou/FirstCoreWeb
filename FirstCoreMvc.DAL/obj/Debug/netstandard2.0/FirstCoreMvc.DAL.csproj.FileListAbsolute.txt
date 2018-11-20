@@ -1,0 +1,14 @@
+E:\2018大四上\专业\.net core\FirstCoreWeb\FirstCoreMvc.DAL\bin\Debug\netstandard2.0\FirstCoreMvc.DAL.deps.json
+E:\2018大四上\专业\.net core\FirstCoreWeb\FirstCoreMvc.DAL\bin\Debug\netstandard2.0\FirstCoreMvc.DAL.dll
+E:\2018大四上\专业\.net core\FirstCoreWeb\FirstCoreMvc.DAL\bin\Debug\netstandard2.0\FirstCoreMvc.DAL.pdb
+E:\2018大四上\专业\.net core\FirstCoreWeb\FirstCoreMvc.DAL\obj\Debug\netstandard2.0\FirstCoreMvc.DAL.csprojAssemblyReference.cache
+E:\2018大四上\专业\.net core\FirstCoreWeb\FirstCoreMvc.DAL\obj\Debug\netstandard2.0\FirstCoreMvc.DAL.csproj.CoreCompileInputs.cache
+E:\2018大四上\专业\.net core\FirstCoreWeb\FirstCoreMvc.DAL\obj\Debug\netstandard2.0\FirstCoreMvc.DAL.AssemblyInfoInputs.cache
+E:\2018大四上\专业\.net core\FirstCoreWeb\FirstCoreMvc.DAL\obj\Debug\netstandard2.0\FirstCoreMvc.DAL.AssemblyInfo.cs
+E:\2018大四上\专业\.net core\FirstCoreWeb\FirstCoreMvc.DAL\obj\Debug\netstandard2.0\FirstCoreMvc.DAL.dll
+E:\2018大四上\专业\.net core\FirstCoreWeb\FirstCoreMvc.DAL\obj\Debug\netstandard2.0\FirstCoreMvc.DAL.pdb
+E:\2018大四上\专业\.net core\FirstCoreWeb\FirstCoreMvc.DAL\bin\Debug\netstandard2.0\FirstCoreMvc.Common.dll
+E:\2018大四上\专业\.net core\FirstCoreWeb\FirstCoreMvc.DAL\bin\Debug\netstandard2.0\FirstCoreMvc.Models.dll
+E:\2018大四上\专业\.net core\FirstCoreWeb\FirstCoreMvc.DAL\bin\Debug\netstandard2.0\FirstCoreMvc.Common.pdb
+E:\2018大四上\专业\.net core\FirstCoreWeb\FirstCoreMvc.DAL\bin\Debug\netstandard2.0\FirstCoreMvc.Models.pdb
+E:\2018大四上\专业\.net core\FirstCoreWeb\FirstCoreMvc.DAL\obj\Debug\netstandard2.0\FirstCoreMvc.DAL.csproj.CopyComplete
